@@ -1,2 +1,3 @@
 # ReadingList
-論文を読もう
+論文を読もう  
+とりあえずwikiにGO
